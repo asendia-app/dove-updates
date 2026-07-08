@@ -1,1 +1,1 @@
-# dove-updates
+Dove release repository
